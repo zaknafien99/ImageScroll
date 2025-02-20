@@ -10,3 +10,5 @@ a site to put images in a carousel view and scroll through them.
 
 Once set up, your site will be available at:
 https://zaknafien99.github.io/ImageScroll
+
+This is purely for my own education, hence it's extremely minimalist design.
